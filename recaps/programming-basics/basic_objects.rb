@@ -2,21 +2,22 @@
 name = "Matheus"
 
 puts 'My name is #{name}'
-puts "My name is #{name}"
+puts "My name is #{name}" # double quote strings allows string interpolation #{}
 
 # Booleans
 true
 false
 
-# Number / Integer
+# Integers
 15
 22
 0
 1
 5000
 
-# Float
+# Floats
 14.4
+-5.4
 
 # Arrays
 []
@@ -26,3 +27,6 @@ false
 # Range
 (1..10)  # includes 10
 (1...10) # excludes 10
+
+# Nil -> represents the absence of value
+nil

@@ -4,7 +4,7 @@
 # the method
 
 def greetings
-    return "Hello there"
+  return "Hello there"
 end
 
 var = greetings
